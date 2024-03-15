@@ -20,11 +20,6 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 });
 
-
-
-
-
-
 // const heartColors = ['#ff5e5e', '#ffb6b6', '#ff8484', '#ff9292', '#ffaaaa']; // Renkli kalp renkleri
 // const heartInterval = 30; // Her 10 pikselde bir kalp oluştur
 // const numberOfHearts = 100; // Oluşturulacak kalp sayısı
